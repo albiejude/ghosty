@@ -109,7 +109,7 @@
   --color-primary-700: #352077;
   --color-primary-800: #231650;
   --color-primary-900: #120b28;
-  --color-secondary: #ffd200;
+  --color-secondary: #2380c3;
   --color-secondary-10: #fffef7;
   --color-secondary-25: #fffdf2;
   --color-secondary-50: #fffbe6;
@@ -117,7 +117,7 @@
   --color-secondary-200: #ffed99;
   --color-secondary-300: #ffe466;
   --color-secondary-400: #ffdb33;
-  --color-secondary-500: #ffd200;
+  --color-secondary-500: #2380c3;
   --color-secondary-600: #cca800;
   --color-secondary-700: #997e00;
   --color-secondary-800: #665400;
@@ -1639,7 +1639,7 @@ header.uc-header.header-two .uc-navbar-nav > li > a:hover {
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
   --bs-primary: #5836c7;
-  --bs-secondary: #ffd200;
+  --bs-secondary: #2380c3;
   --bs-success: #4caf50;
   --bs-info: #0099cc;
   --bs-warning: #ffb307;
@@ -1691,7 +1691,7 @@ header.uc-header.header-two .uc-navbar-nav > li > a:hover {
   --bs-secondary-200: #ffed99;
   --bs-secondary-300: #ffe466;
   --bs-secondary-400: #ffdb33;
-  --bs-secondary-500: #ffd200;
+  --bs-secondary-500: #2380c3;
   --bs-secondary-600: #cca800;
   --bs-secondary-700: #997e00;
   --bs-secondary-800: #665400;
@@ -3096,8 +3096,8 @@ progress {
 }
 .btn-secondary {
   --bs-btn-color: #000;
-  --bs-btn-bg: #ffd200;
-  --bs-btn-border-color: #ffd200;
+  --bs-btn-bg: #2380c3;
+  --bs-btn-border-color: #2380c3;
   --bs-btn-hover-color: #000;
   --bs-btn-hover-bg: #ffd926;
   --bs-btn-hover-border-color: #ffd71a;
@@ -3107,8 +3107,8 @@ progress {
   --bs-btn-active-border-color: #ffd71a;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
   --bs-btn-disabled-color: #000;
-  --bs-btn-disabled-bg: #ffd200;
-  --bs-btn-disabled-border-color: #ffd200;
+  --bs-btn-disabled-bg: #2380c3;
+  --bs-btn-disabled-border-color: #2380c3;
 }
 .btn-primary-200 {
   --bs-btn-color: #fff;
@@ -4579,11 +4579,11 @@ textarea.form-control {
   ) !important;
 }
 .from-secondary {
-  --uc-gradient-from: #ffd200;
+  --uc-gradient-from: #0fcbc1;
   --uc-gradient-stops: var(--uc-gradient-from), var(--uc-gradient-to);
 }
 .to-tertiary {
-  --uc-gradient-to: #ffa2e6;
+  --uc-gradient-to: #2a69c2;
 }
 .to-quaternary {
   --uc-gradient-to: #a2ffee;
