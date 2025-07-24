@@ -1940,7 +1940,7 @@ header.uc-header.header-two .uc-navbar-nav > li > a:hover {
   --bs-fifth-800: #665562;
   --bs-fifth-900: #332b31;
   --bs-primary-rgb: 88, 54, 199;
-  --bs-secondary-rgb: 255, 210, 0;
+  --bs-secondary-rgb: 14, 190, 184;
   --bs-success-rgb: 76, 175, 80;
   --bs-info-rgb: 0, 153, 204;
   --bs-warning-rgb: 255, 179, 7;
@@ -2201,7 +2201,7 @@ header.uc-header.header-two .uc-navbar-nav > li > a:hover {
   --bs-cyan-700-rgb: 34, 135, 153;
   --bs-cyan-800-rgb: 22, 90, 102;
   --bs-cyan-900-rgb: 11, 45, 51;
-  --bs-tertiary-rgb: 244, 169, 36;
+  --bs-tertiary-rgb: 40, 204, 181;
   --bs-tertiary-10-rgb: 255, 252, 254;
   --bs-tertiary-25-rgb: 255, 250, 254;
   --bs-tertiary-50-rgb: 255, 246, 253;
